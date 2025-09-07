@@ -22,7 +22,7 @@ Postman cURL requests demonstrating successful communication with both services 
 
 ---
 
-### 3. 🖥️API Gateway Terminal Logs
+### 3. API Gateway Terminal Logs
 
 API Gateway terminal output showing successful request routing to the relevant microservices.
 
